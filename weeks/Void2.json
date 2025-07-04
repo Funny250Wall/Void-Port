@@ -1,0 +1,45 @@
+{
+	"storyName": "A Supermassive Encore",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Void1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"acvoidshit",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ultraviolet",
+			"icon-voidnormal",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"Gravity",
+			"icon-void-angy",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"Singularity",
+			"acvoid",
+			[
+				58,
+				4,
+				68
+			]
+		]
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

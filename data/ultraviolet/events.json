@@ -1,0 +1,19 @@
+{
+	"events": [
+		[
+			150857.142857143,
+			[
+				["defzoom", "1", ""],
+				["Play Animation", "pose", "Dad"]
+			]
+		],
+		[
+			151285.714285714,
+			[
+				["defzoom", "", ""],
+				["Play Animation", "posewink", "Dad"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

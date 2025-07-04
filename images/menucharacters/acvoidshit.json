@@ -1,0 +1,9 @@
+{
+	"idle_anim": "menuacvoid",
+	"image": "AcVoidShit",
+	"position": [170, 38],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.85,
+	"confirm_anim": "M Dad Idle"
+}

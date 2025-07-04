@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_achievements.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="achievements idle instance 10000" x="249" y="251" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="189"/>
+	<SubTexture name="achievements idle instance 10001" x="249" y="251" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="189"/>
+	<SubTexture name="achievements idle instance 10002" x="249" y="251" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="189"/>
+	<SubTexture name="achievements idle instance 10003" x="779" y="458" width="189" height="189" rotated="false"/>
+	<SubTexture name="achievements idle instance 10004" x="779" y="458" width="189" height="189" rotated="false"/>
+	<SubTexture name="achievements idle instance 10005" x="779" y="458" width="189" height="189" rotated="false"/>
+	<SubTexture name="achievements idle instance 10006" x="249" y="444" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="189"/>
+	<SubTexture name="achievements idle instance 10007" x="249" y="444" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="189"/>
+	<SubTexture name="achievements idle instance 10008" x="249" y="444" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="189"/>
+	<SubTexture name="achievements selected instance 10000" x="0" y="0" width="270" height="241" rotated="false" frameX="0" frameY="-19" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10001" x="274" y="0" width="257" height="247" rotated="false" frameX="-13" frameY="-13" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10002" x="535" y="0" width="245" height="241" rotated="false" frameX="-19" frameY="-13" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10003" x="0" y="245" width="245" height="254" rotated="false" frameX="-19" frameY="0" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10004" x="784" y="0" width="240" height="225" rotated="false" frameX="-21" frameY="-27" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10005" x="784" y="0" width="240" height="225" rotated="false" frameX="-21" frameY="-27" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10006" x="784" y="229" width="240" height="225" rotated="false" frameX="-21" frameY="-27" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10007" x="784" y="229" width="240" height="225" rotated="false" frameX="-21" frameY="-27" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10008" x="535" y="245" width="240" height="225" rotated="false" frameX="-21" frameY="-27" frameWidth="270" frameHeight="260"/>
+	<SubTexture name="achievements selected instance 10009" x="535" y="245" width="240" height="225" rotated="false" frameX="-21" frameY="-27" frameWidth="270" frameHeight="260"/>
+</TextureAtlas>

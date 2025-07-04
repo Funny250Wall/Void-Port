@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_mods.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="mods idle instance 10000" x="0" y="189" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10001" x="0" y="189" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10002" x="0" y="189" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10003" x="0" y="316" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10004" x="0" y="316" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10005" x="0" y="316" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10006" x="351" y="370" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10007" x="351" y="370" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods idle instance 10008" x="351" y="370" width="347" height="123" rotated="false"/>
+	<SubTexture name="mods selected instance 10000" x="395" y="0" width="393" height="182" rotated="false" frameX="0" frameY="0" frameWidth="394" frameHeight="185"/>
+	<SubTexture name="mods selected instance 10001" x="0" y="0" width="391" height="185" rotated="false" frameX="-1" frameY="0" frameWidth="394" frameHeight="185"/>
+	<SubTexture name="mods selected instance 10002" x="395" y="186" width="389" height="180" rotated="false" frameX="-5" frameY="0" frameWidth="394" frameHeight="185"/>
+</TextureAtlas>

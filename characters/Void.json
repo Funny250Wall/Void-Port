@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [-170, 50],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [-81, 58],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [-7, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Void Left Note Hype"
+		},
+		{
+			"offsets": [-264, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [-264, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Void Right Note Hype"
+		},
+		{
+			"offsets": [-127, 51],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [-50, 52],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [-144, 54],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [-6, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"offsets": [-170, -50],
+			"loop": false,
+			"fps": 15,
+			"anim": "wink",
+			"indices": [],
+			"name": "Void Wink"
+		},
+		{
+			"offsets": [-170, -50],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Void Seethe"
+		},
+		{
+			"loop": true,
+			"offsets": [-170, -50],
+			"anim": "confused",
+			"fps": 24,
+			"name": "Void Confused",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-170, -50],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Void Intro",
+			"indices": []
+		},
+		{
+			"offsets": [-127, -51],
+			"indices": [],
+			"fps": 24,
+			"anim": "pose",
+			"loop": false,
+			"name": "Void Pose0"
+		},
+		{
+			"offsets": [-127, -51],
+			"indices": [],
+			"fps": 15,
+			"anim": "posewink",
+			"loop": false,
+			"name": "Void PoseWink"
+		}
+	],
+	"vocals_file": "void",
+	"no_antialiasing": false,
+	"image": "characters/void_assets",
+	"position": [-370, -10],
+	"healthicon": "voidNormal",
+	"flip_x": false,
+	"healthbar_colors": [116, 42, 166],
+	"camera_position": [160, 50],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

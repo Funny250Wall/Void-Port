@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox-space.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+        <SubTexture name="Speech Bubble Normal Open0002" x="0" y="340" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Normal Open0003" x="750" y="340" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Normal Open0004" x="0" y="680" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Normal Open0005" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="speech Bubble Loud Open0000" x="0" y="0" width="750" height="340"/>
+        <SubTexture name="speech Bubble Loud Open0001" x="750" y="0" width="750" height="340"/>
+        <SubTexture name="speech Bubble Loud Open0002" x="0" y="340" width="750" height="340"/>
+        <SubTexture name="speech Bubble Loud Open0003" x="750" y="340" width="750" height="340"/>
+        <SubTexture name="speech Bubble Loud Open0004" x="0" y="680" width="750" height="340"/>
+        <SubTexture name="speech Bubble Loud Open0005" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="Speech Bubble Middle Loud Open0000" x="0" y="0" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Loud Open0001" x="750" y="0" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Loud Open0002" x="0" y="340" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Loud Open0003" x="750" y="340" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Loud Open0004" x="0" y="680" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Loud Open0005" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="Speech Bubble Middle Open0000" x="0" y="0" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Open0001" x="750" y="0" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Open0002" x="0" y="340" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Open0003" x="750" y="340" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Open0004" x="0" y="680" width="750" height="340"/>
+        <SubTexture name="Speech Bubble Middle Open0005" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="AHH Speech Bubble middle0001" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="speech bubble middle0001" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="AHH speech bubble0001" x="750" y="680" width="750" height="340"/>
+
+        <SubTexture name="speech bubble normal0005" x="750" y="680" width="750" height="340"/>
+</TextureAtlas>

@@ -1,0 +1,53 @@
+{
+	"events": [
+		[
+			155538.461538461,
+			[
+				["Change Character", "Dad", "Hurtvoid"]
+			]
+		],
+		[
+			155538.461538461,
+			[
+				["Change Character", "Dad", "Hurtvoid"]
+			]
+		],
+		[
+			156923.076923077,
+			[
+				["Play Animation", "FlinchA", "Dad"]
+			]
+		],
+		[
+			158307.692307692,
+			[
+				["Play Animation", "FlinchB", "Dad"]
+			]
+		],
+		[
+			168923.076923077,
+			[
+				["Play Animation", "SnapA", "Dad"]
+			]
+		],
+		[
+			169384.615384615,
+			[
+				["Play Animation", "SnapB", "Dad"]
+			]
+		],
+		[
+			169384.615384615,
+			[
+				["Play Animation", "SnapB", "Dad"]
+			]
+		],
+		[
+			169846.153846154,
+			[
+				["Change Character", "Dad", "CrazedVoid"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-10
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				24
+			],
+			"idle_offsets": [
+				0,
+				24
+			],
+			"loop_name": "Void Normal",
+			"idle_name": "Void Normal instance 10003"
+		},
+		{
+			"loop_offsets": [
+				0,
+				24
+			],
+			"anim": "Mad",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"loop_name": "Void Mad",
+			"idle_name": "Void Mad "
+		},
+		{
+			"loop_name": "Void Yell",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Yell",
+			"anim": "Yell",
+			"loop_offsets": [
+				0,
+				24
+			]
+		}
+	],
+	"image": "acvoidPics"
+}

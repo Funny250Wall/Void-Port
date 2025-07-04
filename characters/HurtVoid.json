@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-170, 50],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Void Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-171, 50],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Void Left Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-168, 50],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Void Right Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-170, 51],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Void Down Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-170, 50],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Void Up Note Chill",
+			"indices": []
+		},
+		{
+			"offsets": [-169, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "FlinchA",
+			"loop": false,
+			"name": "Flinch A"
+		},
+		{
+			"offsets": [-169, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "FlinchB",
+			"loop": false,
+			"name": "Flinch B"
+		},
+		{
+			"offsets": [-170, 51],
+			"indices": [],
+			"fps": 24,
+			"anim": "SnapA",
+			"loop": false,
+			"name": "Snap A"
+		},
+		{
+			"offsets": [-170, 51],
+			"indices": [],
+			"fps": 24,
+			"anim": "SnapB",
+			"loop": false,
+			"name": "Snap B"
+		}
+	],
+	"vocals_file": "void",
+	"no_antialiasing": false,
+	"image": "characters/hurt_void_assets",
+	"position": [-370, -10],
+	"healthicon": "icon-void-angy",
+	"flip_x": false,
+	"healthbar_colors": [116, 42, 166],
+	"camera_position": [160, 50],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

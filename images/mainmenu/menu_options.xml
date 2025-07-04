@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="options idle instance 10000" x="202" y="635" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10001" x="202" y="635" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10002" x="202" y="635" width="188" height="189" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10003" x="215" y="0" width="189" height="189" rotated="false" frameX="0" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10004" x="215" y="0" width="189" height="189" rotated="false" frameX="0" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10005" x="215" y="0" width="189" height="189" rotated="false" frameX="0" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10006" x="202" y="441" width="188" height="190" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10007" x="202" y="441" width="188" height="190" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options idle instance 10008" x="202" y="441" width="188" height="190" rotated="false" frameX="-1" frameY="0" frameWidth="189" frameHeight="190"/>
+	<SubTexture name="options selected instance 10000" x="0" y="0" width="211" height="227" rotated="false"/>
+	<SubTexture name="options selected instance 10001" x="0" y="0" width="211" height="227" rotated="false"/>
+	<SubTexture name="options selected instance 10002" x="0" y="231" width="198" height="211" rotated="false" frameX="-5" frameY="-8" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10003" x="0" y="231" width="198" height="211" rotated="false" frameX="-5" frameY="-8" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10004" x="0" y="446" width="198" height="206" rotated="false" frameX="-5" frameY="-12" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10005" x="0" y="446" width="198" height="206" rotated="false" frameX="-5" frameY="-12" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10006" x="0" y="656" width="198" height="206" rotated="false" frameX="-5" frameY="-12" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10007" x="0" y="656" width="198" height="206" rotated="false" frameX="-5" frameY="-12" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10008" x="202" y="231" width="198" height="206" rotated="false" frameX="-5" frameY="-12" frameWidth="211" frameHeight="227"/>
+	<SubTexture name="options selected instance 10009" x="202" y="231" width="198" height="206" rotated="false" frameX="-5" frameY="-12" frameWidth="211" frameHeight="227"/>
+</TextureAtlas>

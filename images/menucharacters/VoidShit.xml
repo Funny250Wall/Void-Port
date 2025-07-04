@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="menuvoid0000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0001" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0002" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0003" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0004" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0005" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0006" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0007" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0008" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0009" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0010" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0011" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0012" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="menuvoid0013" x="2000" y="0" width="500" height="500"/>
+</TextureAtlas>

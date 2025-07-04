@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<SubTexture name="story_mode idle0000" x="0" y="543" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0001" x="0" y="543" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0002" x="0" y="543" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0003" x="0" y="671" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0004" x="0" y="671" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0005" x="0" y="671" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0006" x="0" y="799" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0007" x="0" y="799" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode idle0008" x="0" y="799" width="616" height="124" rotated="false"/>
+	<SubTexture name="story_mode selected0000" x="0" y="365" width="796" height="174" rotated="false" frameX="0" frameY="-3" frameWidth="796" frameHeight="182"/>
+	<SubTexture name="story_mode selected0001" x="0" y="186" width="795" height="175" rotated="false" frameX="-1" frameY="-1" frameWidth="796" frameHeight="182"/>
+	<SubTexture name="story_mode selected0002" x="0" y="0" width="795" height="182" rotated="false" frameX="0" frameY="0" frameWidth="796" frameHeight="182"/>
+</TextureAtlas>

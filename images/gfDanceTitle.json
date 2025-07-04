@@ -1,0 +1,13 @@
+{	
+	"titlex": -150,
+	"titley": -100,
+	"startx": 100,
+	"starty": 620,
+	"gfx": 540,
+	"gfy": -10,
+	"backgroundSprite": "titleBG",
+	"bpm": 120,
+	
+	"animation": "void bumpin",
+	"idle": true
+}

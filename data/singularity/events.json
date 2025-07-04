@@ -1,0 +1,41 @@
+{
+	"events": [
+		[
+			69300,
+			[
+				["Play Animation", "Scream", "Dad"]
+			]
+		],
+		[
+			174600,
+			[
+				["Play Animation", "Windup", "Dad"]
+			]
+		],
+		[
+			175200,
+			[
+				["Play Animation", "Succ", "Dad"]
+			]
+		],
+		[
+			204000,
+			[
+				["Play Animation", "Stunned", "Dad"]
+			]
+		],
+		[
+			207000,
+			[
+				["Play Animation", "singDOWN-alt", "Dad"]
+			]
+		],
+		[
+			219300,
+			[
+				["Play Animation", "Defeat", "Dad"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

@@ -1,0 +1,115 @@
+{
+	"position": [
+		0,
+		-10
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "voidPics",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				24
+			],
+			"loop_offsets": [
+				0,
+				24
+			],
+			"anim": "talk",
+			"idle_name": "Void Normal instance 10001",
+			"loop_name": "Void Normal"
+		},
+		{
+			"loop_name": "Void Umm",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Umm instance 10003",
+			"anim": "Umm",
+			"loop_offsets": [
+				0,
+				24
+			]
+		},
+		{
+			"loop_name": "Void Smug",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Smug instance 10003",
+			"anim": "Smug",
+			"loop_offsets": [
+				0,
+				24
+			]
+		},
+		{
+			"loop_name": "Void Crazy",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Crazy instance 10001",
+			"anim": "Crazy",
+			"loop_offsets": [
+				0,
+				24
+			]
+		},
+		{
+			"loop_name": "Void Dark",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Dark instance 10003",
+			"anim": "Dark",
+			"loop_offsets": [
+				0,
+				24
+			]
+		},
+		{
+			"loop_name": "Void Worn Out",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Worn Out 10003",
+			"anim": "WornOut",
+			"loop_offsets": [
+				0,
+				24
+			]
+		},
+		{
+			"loop_name": "Void Mad",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Mad 10003",
+			"anim": "Mad",
+			"loop_offsets": [
+				0,
+				24
+			]
+		},
+		{
+			"loop_name": "Void Rage",
+			"idle_offsets": [
+				0,
+				24
+			],
+			"idle_name": "Void Rage 10003",
+			"anim": "Rage",
+			"loop_offsets": [
+				0,
+				24
+			]
+		}
+	]
+}

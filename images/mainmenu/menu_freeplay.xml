@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_freeplay.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="freeplay idle instance 10000" x="0" y="527" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10001" x="0" y="527" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10002" x="0" y="527" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10003" x="0" y="654" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10004" x="0" y="654" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10005" x="0" y="654" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10006" x="0" y="781" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10007" x="0" y="781" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay idle instance 10008" x="0" y="781" width="486" height="123" rotated="false"/>
+	<SubTexture name="freeplay selected instance 10000" x="0" y="354" width="627" height="169" rotated="false" frameX="0" frameY="0" frameWidth="636" frameHeight="174"/>
+	<SubTexture name="freeplay selected instance 10001" x="0" y="178" width="633" height="172" rotated="false" frameX="-3" frameY="0" frameWidth="636" frameHeight="174"/>
+	<SubTexture name="freeplay selected instance 10002" x="0" y="0" width="629" height="174" rotated="false" frameX="-4" frameY="0" frameWidth="636" frameHeight="174"/>
+</TextureAtlas>

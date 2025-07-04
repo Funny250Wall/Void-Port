@@ -1,0 +1,89 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "bfPics",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				77
+			],
+			"loop_offsets": [
+				0,
+				77
+			],
+			"anim": "talk",
+			"idle_name": "Bf Normal instance 10003",
+			"loop_name": "Bf Normal"
+		},
+		{
+			"loop_name": "Bf Smug",
+			"idle_offsets": [
+				0,
+				77
+			],
+			"idle_name": "Bf Smug instance 10003",
+			"anim": "Smug",
+			"loop_offsets": [
+				0,
+				77
+			]
+		},
+		{
+			"loop_name": "Bf Umm ",
+			"idle_offsets": [
+				0,
+				77
+			],
+			"idle_name": "Bf Umm instance 10003",
+			"anim": "Umm",
+			"loop_offsets": [
+				0,
+				77
+			]
+		},
+		{
+			"loop_name": "Bf Ready",
+			"idle_offsets": [
+				0,
+				77
+			],
+			"idle_name": "Bf Ready instance 10003",
+			"anim": "Ready",
+			"loop_offsets": [
+				0,
+				77
+			]
+		},
+		{
+			"loop_name": "Accretion Normal",
+			"idle_offsets": [
+				0,
+				77
+			],
+			"idle_name": "Accretion Normal instance 10003",
+			"anim": "AccretionTalk",
+			"loop_offsets": [
+				0,
+				77
+			]
+		},
+		{
+			"loop_name": "Accretion Umm",
+			"idle_offsets": [
+				0,
+				77
+			],
+			"idle_name": "Accretion Umm instance 10003",
+			"anim": "AccretionUmm",
+			"loop_offsets": [
+				0,
+				77
+			]
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [-81, 58],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [-7, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Void Left Note Hype"
+		},
+		{
+			"offsets": [-264, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [-365, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Void Right Note Hype"
+		},
+		{
+			"offsets": [-127, 51],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [-142, 25],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [-144, 54],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [-171, 103],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"offsets": [-227, 59],
+			"loop": true,
+			"fps": 24,
+			"anim": "Succ",
+			"indices": [],
+			"name": "Succ"
+		},
+		{
+			"loop": false,
+			"offsets": [-142, 25],
+			"anim": "Defeat",
+			"fps": 24,
+			"name": "Defeat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-144, 54],
+			"anim": "Scream",
+			"fps": 24,
+			"name": "Scream",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-170, 47],
+			"anim": "Stunned",
+			"fps": 12,
+			"name": "Stunned",
+			"indices": []
+		},
+		{
+			"offsets": [-73, -39],
+			"indices": [],
+			"fps": 15,
+			"anim": "Windup",
+			"loop": false,
+			"name": "Void Windup"
+		},
+		{
+			"offsets": [-170, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Star Idle"
+		}
+	],
+	"vocals_file": "acvoid",
+	"no_antialiasing": false,
+	"image": "characters/starbreak_assets",
+	"position": [-370, -10],
+	"healthicon": "acvoid",
+	"flip_x": false,
+	"healthbar_colors": [58, 4, 68],
+	"camera_position": [160, 50],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

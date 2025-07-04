@@ -1,0 +1,29 @@
+{
+	"songs":
+	[
+		[
+			"Stardust",
+			"starbreak",
+			[
+				31,
+				123,
+				224
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": 
+	[
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "StarDust",
+	"weekName": "StarDust",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

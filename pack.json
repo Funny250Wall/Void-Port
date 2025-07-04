@@ -1,0 +1,8 @@
+{
+	"name": "VoidPort",
+	"description": "Port of Void.",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [56, 20, 111],
+	"discordRPC": "863222024192262205"
+}

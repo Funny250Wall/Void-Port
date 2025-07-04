@@ -1,0 +1,22 @@
+function onCountdownTick(tick:Countdown, counter:Int)
+    {
+        switch(tick)
+        {
+            case Countdown.THREE:
+                for(note in playerStrums){
+                    note.playAnim("pressed");
+                }
+
+                for(note in opponentStrums){
+                    note.playAnim("pressed");
+                }
+            case Countdown.TWO:
+                for(note in playerStrums){
+                    note.playAnim("static");
+                }
+            
+                for(note in opponentStrums){
+                    note.playAnim("static");
+                }
+        }
+    }

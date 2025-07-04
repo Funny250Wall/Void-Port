@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Security",
+			"accreations",
+			[
+				164,
+				45,
+				169
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Security",
+	"weekName": "Void3",
+	"hideStoryMode": true,
+	"weekBefore": "Void2",
+	"startUnlocked": true
+}

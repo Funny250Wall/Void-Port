@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [392, 211],
+			"anim": "cough",
+			"fps": 24,
+			"name": "Accretions Cough",
+			"indices": []
+		},
+		{
+			"offsets": [392, 211],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Accretions Idle"
+		},
+		{
+			"offsets": [392, 211],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Accretions Left Note"
+		},
+		{
+			"offsets": [392, 211],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Accretions Up Note"
+		},
+		{
+			"offsets": [392, 211],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Accretions Right Note"
+		},
+		{
+			"offsets": [392, 211],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Accretions Down Note"
+		}
+	],
+	"vocals_file": "accretion",
+	"no_antialiasing": false,
+	"image": "characters/accretion_assets",
+	"position": [0, 0],
+	"healthicon": "accreations",
+	"flip_x": false,
+	"healthbar_colors": [114, 28, 129],
+	"camera_position": [-640, -130],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

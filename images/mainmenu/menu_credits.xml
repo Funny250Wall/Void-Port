@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_credits.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="credits idle instance 10000" x="0" y="517" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10001" x="0" y="517" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10002" x="0" y="517" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10003" x="0" y="643" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10004" x="0" y="643" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10005" x="0" y="643" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10006" x="0" y="769" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10007" x="0" y="769" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits idle instance 10008" x="0" y="769" width="475" height="122" rotated="false"/>
+	<SubTexture name="credits selected instance 10000" x="0" y="175" width="646" height="168" rotated="false" frameX="0" frameY="-4" frameWidth="652" frameHeight="172"/>
+	<SubTexture name="credits selected instance 10001" x="0" y="347" width="644" height="166" rotated="false" frameX="0" frameY="-3" frameWidth="652" frameHeight="172"/>
+	<SubTexture name="credits selected instance 10002" x="0" y="0" width="651" height="171" rotated="false" frameX="-1" frameY="0" frameWidth="652" frameHeight="172"/>
+</TextureAtlas>
