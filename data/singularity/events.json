@@ -15,7 +15,8 @@
 		[
 			175200,
 			[
-				["Play Animation", "Succ", "Dad"]
+				["Play Animation", "Succ", "Dad"],
+				["Change Speeds", "1", "5"]
 			]
 		],
 		[
