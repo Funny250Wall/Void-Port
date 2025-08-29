@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SSNOTE_assets-default_Singularity.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="arrowSHIFT0000" x="159" y="0" width="157" height="157" rotated="false"/>
+	<SubTexture name="arrowSPACE0000" x="159" y="0" width="157" height="157" rotated="false"/>
+	<SubTexture name="shift0000" x="0" y="0" width="157" height="157" rotated="false"/>
+	<SubTexture name="shift confirm0000" x="318" y="0" width="256" height="256" rotated="false"/>
+	<SubTexture name="shift confirm0001" x="576" y="0" width="256" height="256" rotated="false"/>
+	<SubTexture name="shift confirm0002" x="0" y="258" width="256" height="256" rotated="false"/>
+	<SubTexture name="shift confirm0003" x="0" y="258" width="256" height="256" rotated="false"/>
+	<SubTexture name="space0000" x="0" y="0" width="157" height="157" rotated="false"/>
+	<SubTexture name="space confirm0000" x="318" y="0" width="256" height="256" rotated="false"/>
+	<SubTexture name="space confirm0001" x="576" y="0" width="256" height="256" rotated="false"/>
+	<SubTexture name="space confirm0002" x="0" y="258" width="256" height="256" rotated="false"/>
+	<SubTexture name="space confirm0003" x="0" y="258" width="256" height="256" rotated="false"/>
+</TextureAtlas>
