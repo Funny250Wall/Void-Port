@@ -56,7 +56,7 @@ function onCreatePost()
       createEditorHUD()
       setProperty('cpuControlled', true)
       setProperty('camHUD.visible', false)
-      --luaDebugMode = true
+      --luaDebugMode = false
 
       --setProperty('lime.system.Clipboard.text', "hi")
         addHaxeLibrary('Clipboard', 'lime.system')

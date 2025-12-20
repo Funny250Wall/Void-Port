@@ -1,4 +1,4 @@
-luaDebugMode = true
+luaDebugMode = false
 function onCreate()
 	makeLuaSprite("spaceBG", 'SpaceStuff/spaceBG', -450, -160)
 	scaleObject("spaceBG", 1.5, 1.5)
