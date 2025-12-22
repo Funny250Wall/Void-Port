@@ -1,7 +1,7 @@
 {
 	"directory": "",
 	"defaultZoom": 0.7,
-	"stageUI": "Void",
+	"stageUI": "Single",
 
 	"boyfriend": [770, 115],
 	"girlfriend": [375, 140],

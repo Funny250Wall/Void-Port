@@ -50,9 +50,7 @@ function onUpdatePost(e)
         end
     end
 end
-function onUpdate()
-    
-end
+
 function onCreate()
     --debugPrint('images/'..darknoteskin)
     if checkFileExists('images/'..darknoteskin..'.png') == false  and songName == 'Singularity' then
@@ -81,20 +79,20 @@ function onCreatePost()
         note.playAnim("pressed");
     }]])
     runTimer('NoteFixer', 0.2)
-    if candark == true then
-        for i = 0, getProperty('unspawnNotes.length')-1 do
-            setPropertyFromGroup('unspawnNotes', i, 'texture', darknoteskin); --Change texture
-            setPropertyFromGroup('unspawnNotes', i, 'rgbShader.enabled', false); --RGB Shader off, set true if you want
-        end
-        for i = 0, getProperty('opponentStrums.length')-1 do
-            setPropertyFromGroup('opponentStrums', i, 'texture', darknoteskin); --Change texture
-            setPropertyFromGroup('opponentStrums', i, 'rgbShader.enabled', false); --RGB Shader off, set true if you want
-        end
-        for i = 0, getProperty('playerStrums.length')-1 do
-            setPropertyFromGroup('playerStrums', i, 'texture', darknoteskin); --Change texture
-            setPropertyFromGroup('playerStrums', i, 'rgbShader.enabled', false); --RGB Shader off, set true if you want
-        end
-    end
+    --if candark == true then
+    --    for i = 0, getProperty('unspawnNotes.length')-1 do
+    --        setPropertyFromGroup('unspawnNotes', i, 'texture', darknoteskin); --Change texture
+    --        setPropertyFromGroup('unspawnNotes', i, 'rgbShader.enabled', false); --RGB Shader off, set true if you want
+    --    end
+    --    for i = 0, getProperty('opponentStrums.length')-1 do
+    --        setPropertyFromGroup('opponentStrums', i, 'texture', darknoteskin); --Change texture
+    --        setPropertyFromGroup('opponentStrums', i, 'rgbShader.enabled', false); --RGB Shader off, set true if you want
+    --    end
+    --    for i = 0, getProperty('playerStrums.length')-1 do
+    --        setPropertyFromGroup('playerStrums', i, 'texture', darknoteskin); --Change texture
+    --        setPropertyFromGroup('playerStrums', i, 'rgbShader.enabled', false); --RGB Shader off, set true if you want
+    --    end
+    --end
 end
 function onTimerCompleted(tag, loops, loopsLeft)
     if tag == 'NoteFixer' then

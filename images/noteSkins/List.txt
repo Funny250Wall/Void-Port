@@ -1,3 +1,0 @@
-default Singularity
-chip Singularity
-future Singularity
